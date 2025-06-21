@@ -79,8 +79,4 @@ Taking courses in AI/ML and scalable backend architectures.
 ## ⚡ Fun Fact
 
 I once audited 1,900+ product listings, boosting keyword rankings by 30%—and I think I’m pretty funny too!
-
-  - **LegalSetu:** Developed an AI-powered multilingual legal assistant for legal advice, document analysis, and form filling in 10+ Indian languages. Integrated NLP, OCR, and Web Speech API for accessibility.
-  - **InfluenceIQ:** Built an Instagram analytics platform with ML-powered insights, interactive dashboards, and AWS integration for brands and marketers.
-  - **SEO Manager, Nirguna:** Audited 1,500+ web pages, improved keyword rankings by 30%, managed Google Ads, and enhanced user experience for a 20% sales increase.
 </details>

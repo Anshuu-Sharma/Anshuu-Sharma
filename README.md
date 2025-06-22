@@ -20,8 +20,6 @@
 - 🎓 **B.Tech CSE (IoT)**, Netaji Subhas University of Technology, Delhi (2023–2027)
 - 🏆 **4th Rank, Code Showdown 2** (BVU Delhi)
 - 🏅 **Top 15, WIEGNITE 6.0 Hackathon** (IGDTUW)
-- 💡 **LegalSetu:** AI-powered multilingual legal assistant (React.js, Tailwind, AWS, Firebase, Gemini)
-- 📊 **InfluenceIQ:** Instagram analytics platform using ML & AWS
 
 ---
 

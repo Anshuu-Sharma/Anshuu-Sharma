@@ -18,6 +18,7 @@
 ## 🚀 About Me
 
 - 🎓 **B.Tech CSE (IoT)**, Netaji Subhas University of Technology, Delhi (2023–2027)
+- 🏅 **3rd Rank, CodeClash 2.0** (Google Office, Gurugram)
 - 🏆 **4th Rank, Code Showdown 2** (BVU Delhi)
 - 🏅 **Top 15, WIEGNITE 6.0 Hackathon** (IGDTUW)
 
@@ -58,7 +59,7 @@
 ## 🌱 Currently Learning
 
 Exploring advanced React patterns, Next.js, and cloud integrations.  
-Taking courses in AI/ML and scalable backend architectures.
+Interested in AI/ML and scalable backend architectures.
 
 ---
 

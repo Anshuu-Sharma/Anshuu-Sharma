@@ -1,81 +1,256 @@
-<h1 align="center">Hi 👋, I'm Ansh Sharma</h1>
-<h3 align="center">Full Stack Developer | AI & Cloud Enthusiast | Hackathon Finalist | Passionate about Building Scalable Tech Solutions</h3>
+<div align="center">
+  
+# 👋 Hi, I'm Ansh Sharma
 
-<p align="center">
-  <a href="https://linkedin.com/in/ansh-sharma-36a936143" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+### Full Stack Developer | AI & Cloud Enthusiast | Hackathon Champion 🏆
+
+<p>
+  <a href="https://linkedin.com/in/ansh-sharma-36a936143">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/ansh7s" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white" />
+  <a href="https://github.com/anshuu-sharma">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:anshismyname47@gmail.com" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Email-anshismyname47@gmail.com-red?logo=gmail&logoColor=white" />
+  <a href="https://leetcode.com/ansh7s">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:ansh.sharma.ug23@nsut.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Hackathon+Winner+%F0%9F%8F%86;Problem+Solver+%F0%9F%92%A1;Open+Source+Contributor" alt="Typing SVG" />
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech CSE (IoT)**, Netaji Subhas University of Technology, Delhi (2023–2027)
-- 🏅 **3rd Rank, CodeClash 2.0** (Google Office, Gurugram)
-- 🏆 **4th Rank, Code Showdown 2** (BVU Delhi)
-- 🏅 **Top 15, WIEGNITE 6.0 Hackathon** (IGDTUW)
+```javascript
+const ansh = {
+    education: "B.Tech CSE (IoT) @ NSUT Delhi",
+    currentRole: "SDE Intern @ GydeXp",
+    cgpa: "8.12",
+    location: "Delhi, India",
+    interests: ["Full Stack Development", "AI/ML", "Cloud Computing", "Problem Solving"],
+    currentlyLearning: ["Next.js", "Advanced React Patterns", "Microservices Architecture"],
+    funFact: "I once audited 1,900+ product listings and boosted keyword rankings by 30%! 🚀"
+};
+```
+
+<div align="center">
+
+### 🎓 Academic Background
+**Netaji Subhas University of Technology, Delhi** | 2023-2027  
+B.Tech in Computer Science & Engineering (IoT) | **CGPA: 8.12**
+
+</div>
 
 ---
 
-## 🛠️ Skills & Tools
+## 🏆 Achievements & Recognition
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<div align="center">
+
+| 🥇 Achievement | 📍 Event | 🏅 Details |
+|:--------------|:---------|:----------|
+| **🏆 1st Place** | Hack-a-tone, IIT Delhi | Champions among top technical talent |
+| **🥈 2nd Runner Up** | Industrial Ideathon 2025 | Top 3 out of 600+ teams (GNCTD) |
+| **🥉 3rd Rank** | CodeClash 2.0, Google Office | 3rd among 1400+ teams |
+| **🏅 5th Rank** | AlgoVerse, Microsoft Office | Top 5 finish at prestigious venue |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-**Languages:** C++, Python, HTML, CSS, JavaScript, SQL  
-**Frameworks/Tech:** React.js, Tailwind CSS, AWS, Node.js, Express.js, MongoDB  
-**Libraries:** Numpy, Pandas, Matplotlib  
-**Other:** Git, VS Code, MacVim, SEO, Google Analytics, Postman
-
----
-
-## 🌱 Currently Learning
-
-Exploring advanced React patterns, Next.js, and cloud integrations.  
-Interested in AI/ML and scalable backend architectures.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshuu-sharma&theme=gruvbox" alt="Trophy" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshuu-sharma&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshuu-sharma&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" />
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
+### Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+</p>
+
+### Database & Storage
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+### Tools & Others
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
+</p>
+
+### Libraries & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+</p>
+
+</div>
+
 ---
 
-## ⚡ Fun Fact
+## 🚀 Featured Projects
 
-I once audited 1,900+ product listings, boosting keyword rankings by 30%—and I think I’m pretty funny too!
-</details>
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏛️ LegalSetu
+**AI-Powered Multilingual Legal Assistant**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Key Features:**
+- 🔐 Secure JWT & Firebase Authentication
+- 🗣️ Real-time Voice/Text Multilingual Support
+- 💬 Live Advocate Chat with Socket.IO
+- 📝 Smart Form Filler with OCR
+- 🗺️ Google Maps API Integration
+- 🤖 Gemini AI Integration
+
+</td>
+<td width="50%">
+
+### 📊 InfluenceIQ
+**Instagram Analytics Platform**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Key Features:**
+- 📈 Real-time Engagement Analytics
+- 🏆 Influencer Leaderboards
+- 🤖 Automated Data Scraping with Apify
+- ☁️ AWS DynamoDB & S3 Integration
+- 📊 Advanced Data Processing with Pandas
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshuu-sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=anshuu-sharma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+</div>
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuu-sharma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=anshuu-sharma&theme=tokyonight&no-frame=true&row=1&column=4" alt="Trophies" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+[![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshuu-sharma&theme=tokyo-night&hide_border=true)](https://github.com/anshuu-sharma)
+
+</div>
+
+---
+
+
+## 💡 What I'm Up To
+
+- 🔭 Currently working on **scalable microservices architecture** at GydeXp
+- 🌱 Learning **Next.js 14, Advanced React Patterns & Cloud-Native Development**
+- 👯 Open to collaborate on **innovative full-stack projects** and **AI-powered applications**
+- 💬 Ask me about **React, Node.js, AWS, System Design, or DSA**
+- ⚡ Fun fact: **I turn coffee into code and ideas into reality!** ☕→💻
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+<p>
+  <a href="https://linkedin.com/in/ansh-sharma-36a936143">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ansh.sharma.ug23@nsut.ac.in">
+    <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://leetcode.com/ansh7s">
+    <img src="https://img.shields.io/badge/LeetCode-Practice_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=anshuu-sharma&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**If you like my work, consider giving a ⭐ to my repositories!**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>

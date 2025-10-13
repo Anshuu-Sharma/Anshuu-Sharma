@@ -30,7 +30,6 @@
 ```javascript
 const ansh = {
     education: "B.Tech CSE (IoT) @ NSUT Delhi",
-    currentRole: "SDE Intern @ GydeXp",
     cgpa: "8.12",
     location: "Delhi, India",
     interests: ["Full Stack Development", "AI/ML", "Cloud Computing", "Problem Solving"],
@@ -211,7 +210,7 @@ B.Tech in Computer Science & Engineering (IoT) | **CGPA: 8.12**
 
 ## 💡 What I'm Up To
 
-- 🔭 Currently working on **scalable microservices architecture** at GydeXp
+- 🔭 Currently working on **scalable microservices architecture** and **agentic workflows**.
 - 🌱 Learning **Next.js 14, Advanced React Patterns & Cloud-Native Development**
 - 👯 Open to collaborate on **innovative full-stack projects** and **AI-powered applications**
 - 💬 Ask me about **React, Node.js, AWS, System Design, or DSA**

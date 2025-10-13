@@ -32,7 +32,7 @@ const ansh = {
     education: "B.Tech CSE (IoT) @ NSUT Delhi",
     cgpa: "8.12",
     location: "Delhi, India",
-    interests: ["Full Stack Development", "AI/ML", "Cloud Computing", "Problem Solving"],
+    interests: ["Full Stack Development", "AI/ML", "Software Development", "Problem Solving"],
     currentlyLearning: ["Next.js", "Advanced React Patterns", "Microservices Architecture"],
     funFact: "I once audited 1,900+ product listings and boosted keyword rankings by 30%! 🚀"
 };

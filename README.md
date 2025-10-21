@@ -184,7 +184,6 @@ B.Tech in Computer Science & Engineering (IoT) | **CGPA: 8.12**
 <div align="center">
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshuu-sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=anshuu-sharma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
 </div>
 

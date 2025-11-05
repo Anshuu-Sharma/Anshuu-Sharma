@@ -190,7 +190,6 @@ B.Tech in Computer Science & Engineering (IoT) | **CGPA: 8.12**
 <div align="center">
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuu-sharma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=anshuu-sharma&theme=tokyonight&no-frame=true&row=1&column=4" alt="Trophies" />
 
 </div>
 

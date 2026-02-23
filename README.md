@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ansh-sharma-36a936143"><img src="https://img.shields.io/badge/Ansh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=%20" /></a>
+<a href="https://linkedin.com/in/ansh-sharma-36a936143"><img src="https://img.shields.io/badge/-Ansh_Sharma-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTE5IDBoLTE0Yy0yLjc2MSAwLTUgMi4yMzktNSA1djE0YzAgMi43NjEgMi4yMzkgNSA1IDVoMTRjMi43NjIgMCA1LTIuMjM5IDUtNXYtMTRjMC0yLjc2MS0yLjIzOC01LTUtNXptLTExIDE5aC0zdi0xMWgzdjExem0tMS41LTEyLjI2OGMtLjk2NiAwLTEuNzUtLjc5LTEuNzUtMS43NjRzLjc4NC0xLjc2NCAxLjc1LTEuNzY0IDEuNzUuNzkgMS43NSAxLjc2NC0uNzgzIDEuNzY0LTEuNzUgMS43NjR6bTEzLjUgMTIuMjY4aC0zdi01LjYwNGMwLTMuMzY4LTQtMy4xMTMtNCAwdjUuNjA0aC0zdi0xMWgzdjEuNzY1YzEuMzk2LTIuNTg2IDctMi43NzcgNyAyLjQ3NnY2Ljc1OXoiLz48L3N2Zz4=" /></a>
 <a href="https://github.com/anshuu-sharma"><img src="https://img.shields.io/badge/-anshuu--sharma-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://leetcode.com/ansh7s"><img src="https://img.shields.io/badge/-ansh7s-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="mailto:anshismyname47@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -17,43 +17,9 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-```ts
-const ansh = {
-  education: "B.Tech CSE (IoT) @ NSUT Delhi | CGPA: 8.2",
-  role: "SDE-1 @ GydeXp | Full Stack Developer & AI Engineer",
-  location: "Delhi, India",
-  stack: {
-    languages: ["C++", "Python", "TypeScript", "JavaScript", "SQL", "HTML5", "CSS3"],
-    frontend: ["React.js", "Next.js", "Redux", "Tailwind CSS", "Zustand", "TanStack Query"],
-    backend: ["Node.js", "Express.js", "Flask", "FastAPI", "Socket.IO", "Sequelize"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL", "DynamoDB"],
-    ai_voice: ["LiveKit", "Deepgram", "ElevenLabs", "Gemini AI"],
-    cloud: ["AWS", "Azure", "Firebase", "Vercel", "Docker", "Git"],
-    libraries: ["NumPy", "Pandas", "Matplotlib"],
-  },
-  currently: "Building real-time AI voice agents & scalable PMS at GydeXp",
-  core_cs: ["DSA", "System Design", "OS", "DBMS", "OOPs", "Computer Networks"],
-  ask_me_about: ["React", "Node.js", "AWS", "System Design", "Voice AI", "DSA"],
-};
-```
+**SDE-1 @ GydeXp** — building real-time AI voice agents and scalable hotel management systems. Full stack developer with production experience across React, Next.js, Node.js, and Python. Passionate about voice AI, LLM optimization, and shipping products that solve real problems.
 
-<div align="center">
-
-### <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="22"> Academic Background
-
-<table>
-<tr>
-<td>
-
-**Netaji Subhas University of Technology, Delhi**
-B.Tech in Computer Science & Engineering (IoT)
-`2023 - 2027` | **CGPA: 8.2**
-
-</td>
-</tr>
-</table>
-
-</div>
+**B.Tech CSE (IoT)** @ NSUT Delhi `2023-2027` | **CGPA: 8.2**
 
 ---
 

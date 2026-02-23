@@ -1,175 +1,53 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Ansh%20Sharma&fontSize=75&fontColor=58a6ff&fontAlignY=35&desc=SDE-1%20%40%20GydeXp%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+
 <div align="center">
-  
-# 👋 Hi, I'm Ansh Sharma
 
-### Full Stack Developer | AI & Cloud Enthusiast | Hackathon Champion 🏆
+<a href="https://linkedin.com/in/ansh-sharma-36a936143"><img src="https://img.shields.io/badge/Ansh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=%20" /></a>
+<a href="https://github.com/anshuu-sharma"><img src="https://img.shields.io/badge/-anshuu--sharma-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/ansh7s"><img src="https://img.shields.io/badge/-ansh7s-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="mailto:anshismyname47@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<p>
-  <a href="https://linkedin.com/in/ansh-sharma-36a936143">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/anshuu-sharma">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/ansh7s">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="mailto:ansh.sharma.ug23@nsut.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Hackathon+Winner+%F0%9F%8F%86;Problem+Solver+%F0%9F%92%A1;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=50&lines=Building+AI-powered+systems+that+ship+to+production+%F0%9F%9A%80;Turning+ideas+into+scalable+products+%F0%9F%92%A1;Top+3+in+8x+Hackathons+%F0%9F%8F%86" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-```javascript
+```ts
 const ansh = {
-    education: "B.Tech CSE (IoT) @ NSUT Delhi",
-    cgpa: "8.12",
-    location: "Delhi, India",
-    interests: ["Full Stack Development", "AI/ML", "Software Development", "Problem Solving"],
-    currentlyLearning: ["Next.js", "Advanced React Patterns", "Microservices Architecture"],
-    funFact: "I once audited 1,900+ product listings and boosted keyword rankings by 30%! 🚀"
+  education: "B.Tech CSE (IoT) @ NSUT Delhi | CGPA: 8.2",
+  role: "SDE-1 @ GydeXp | Full Stack Developer & AI Engineer",
+  location: "Delhi, India",
+  stack: {
+    languages: ["C++", "Python", "TypeScript", "JavaScript", "SQL", "HTML5", "CSS3"],
+    frontend: ["React.js", "Next.js", "Redux", "Tailwind CSS", "Zustand", "TanStack Query"],
+    backend: ["Node.js", "Express.js", "Flask", "FastAPI", "Socket.IO", "Sequelize"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL", "DynamoDB"],
+    ai_voice: ["LiveKit", "Deepgram", "ElevenLabs", "Gemini AI"],
+    cloud: ["AWS", "Azure", "Firebase", "Vercel", "Docker", "Git"],
+    libraries: ["NumPy", "Pandas", "Matplotlib"],
+  },
+  currently: "Building real-time AI voice agents & scalable PMS at GydeXp",
+  core_cs: ["DSA", "System Design", "OS", "DBMS", "OOPs", "Computer Networks"],
+  ask_me_about: ["React", "Node.js", "AWS", "System Design", "Voice AI", "DSA"],
 };
 ```
 
 <div align="center">
 
-### 🎓 Academic Background
-**Netaji Subhas University of Technology, Delhi** | 2023-2027  
-B.Tech in Computer Science & Engineering (IoT) | **CGPA: 8.12**
-
-</div>
-
----
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-| 🥇 Achievement | 📍 Event | 🏅 Details |
-|:--------------|:---------|:----------|
-| **🏆 1st Place** | Hack-a-tone, IIT Delhi | Champions among top technical talent |
-| **🥈 2nd Runner Up** | Industrial Ideathon 2025 | Top 3 out of 600+ teams (GNCTD) |
-| **🥉 3rd Rank** | CodeClash 2.0, Google Office | 3rd among 1400+ teams |
-| **🏅 5th Rank** | AlgoVerse, Microsoft Office | Top 5 finish at prestigious venue |
-
-</div>
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-</p>
-
-### Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-</p>
-
-### Database & Storage
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB"/>
-</p>
-
-### Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-### Tools & Others
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
-</p>
-
-### Libraries & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-</p>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
+### <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="22"> Academic Background
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
-### 🏛️ LegalSetu
-**AI-Powered Multilingual Legal Assistant**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Key Features:**
-- 🔐 Secure JWT & Firebase Authentication
-- 🗣️ Real-time Voice/Text Multilingual Support
-- 💬 Live Advocate Chat with Socket.IO
-- 📝 Smart Form Filler with OCR
-- 🗺️ Google Maps API Integration
-- 🤖 Gemini AI Integration
-
-</td>
-<td width="50%">
-
-### 📊 InfluenceIQ
-**Instagram Analytics Platform**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Key Features:**
-- 📈 Real-time Engagement Analytics
-- 🏆 Influencer Leaderboards
-- 🤖 Automated Data Scraping with Apify
-- ☁️ AWS DynamoDB & S3 Integration
-- 📊 Advanced Data Processing with Pandas
+**Netaji Subhas University of Technology, Delhi**
+B.Tech in Computer Science & Engineering (IoT)
+`2023 - 2027` | **CGPA: 8.2**
 
 </td>
 </tr>
@@ -179,75 +57,263 @@ B.Tech in Computer Science & Engineering (IoT) | **CGPA: 8.12**
 
 ---
 
-## 📊 GitHub Statistics
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Work Experience
 
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshuu-sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
-</div>
+<table>
+<tr>
+<td>
 
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuu-sharma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+### SDE-1 — GydeXp `Nov 2025 - Present`
 
-</div>
+- Built a **real-time conversational AI agent** for hotel bookings using **LiveKit WebRTC**, integrating **Deepgram Nova-2** for speech recognition and **ElevenLabs Turbo** for natural voice synthesis
+- Reduced LLM prompt size by **66%** (3600 → 1200 tokens) and implemented prompt caching, cutting API costs by **72%** while eliminating response hallucinations
+- Achieved **95% tool call accuracy** via hallucination guardrails: mandatory tool result acknowledgment, duplicate booking prevention with idempotency flags
 
----
+### SDE Intern — GydeXp `Aug 2025 - Nov 2025`
 
-## 📈 Contribution Graph
+- Architected a **scalable PMS** using Node.js, Express, and PostgreSQL, applying SOLID principles to build modular, type-safe backend services
+- Built high-performance web portals with **Next.js, React, and Tailwind**, leveraging **Zustand** and **TanStack Query** for optimized state management
+- Engineered **real-time booking features** using Socket.IO and Sequelize, ensuring efficient relational data modeling and live synchronization
+- Implemented secure infrastructure with **Azure, JWT, and RBAC**, driving reliability through automated scheduling and rigorous API validation
 
-<div align="center">
-  
-[![Ansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anshuu-sharma&theme=tokyo-night&hide_border=true)](https://github.com/anshuu-sharma)
-
-</div>
-
----
-
-
-## 💡 What I'm Up To
-
-- 🔭 Currently working on **scalable microservices architecture** and **agentic workflows**.
-- 🌱 Learning **Next.js 14, Advanced React Patterns & Cloud-Native Development**
-- 👯 Open to collaborate on **innovative full-stack projects** and **AI-powered applications**
-- 💬 Ask me about **React, Node.js, AWS, System Design, or DSA**
-- ⚡ Fun fact: **I turn coffee into code and ideas into reality!** ☕→💻
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Let's Connect!
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30"> Tech Arsenal
 
 <div align="center">
 
+### Languages
 <p>
-  <a href="https://linkedin.com/in/ansh-sharma-36a936143">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ansh.sharma.ug23@nsut.ac.in">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://leetcode.com/ansh7s">
-    <img src="https://img.shields.io/badge/LeetCode-Practice_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,html,css&theme=dark" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=anshuu-sharma&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" height="30" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" height="30" />
+</p>
+
+### Databases & Storage
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,dynamodb,firebase&theme=dark" />
+</p>
+
+### AI & Voice
+<p>
+  <img src="https://img.shields.io/badge/LiveKit-FF4785?style=for-the-badge&logo=webrtc&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logo=deepgram&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" height="30" />
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,firebase,vercel,docker,git&theme=dark" />
+</p>
+
+### Tools & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma&theme=dark" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" height="30" />
+</p>
 
 </div>
 
 ---
 
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Hackathon Wins & Achievements
+
 <div align="center">
 
-### ⭐ "Code is like humor. When you have to explain it, it's bad." - Cory House
+<table>
+<tr>
+<td align="center" width="20%">
 
-**If you like my work, consider giving a ⭐ to my repositories!**
+<img src="https://img.shields.io/badge/1st-FFD700?style=for-the-badge&logoColor=black" /><br/>
+**Hack-A-Tone**<br/>
+<sub>IIT Delhi</sub><br/>
+<sup>1000+ participants</sup>
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/1st-FFD700?style=for-the-badge&logoColor=black" /><br/>
+**Adobe Express**<br/>
+<sub>NSUT Main Campus</sub><br/>
+<sup>550+ participants</sup>
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/1st-FFD700?style=for-the-badge&logoColor=black" /><br/>
+**IIT Delhi Alumni Day**<br/>
+<sub>IIT Delhi, 2025</sub><br/>
+<sup>400+ participants</sup>
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/2nd_Runner_Up-C0C0C0?style=for-the-badge&logoColor=black" /><br/>
+**Industrial Ideathon**<br/>
+<sub>GNCTD & DSIIDC</sub><br/>
+<sup>1900+ participants</sup>
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/3rd-CD7F32?style=for-the-badge&logoColor=black" /><br/>
+**CodeClash 2.0**<br/>
+<sub>Google Office, Gurugram</sub><br/>
+<sup>5000+ participants</sup>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">Reservation Voice Agent</h3>
+<p align="center"><strong>Real-Time AI Voice Agent for Hotel Bookings</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiveKit-FF4785?style=flat-square&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logo=deepgram&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" />
+</p>
+
+<p>
+  <strong>Multi-language voice agent</strong> with 95%+ tool call accuracy<br/>
+  <strong>72% cost reduction</strong> via LLM prompt caching & optimization<br/>
+  <strong>300-800ms latency cut</strong> with connection pooling & async DB<br/>
+  <strong>Azure + Twilio</strong> deployment with WhatsApp payment links<br/>
+  <strong>Hallucination guardrails</strong> with mandatory tool acknowledgment<br/>
+  <strong>Full workflow</strong> — booking, cancellation & lead capture
+</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">LegalSetu</h3>
+<p align="center"><strong>AI-Powered Multilingual Legal Assistant</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white" />
+</p>
+
+<p>
+  <strong>Secure JWT & Firebase Auth</strong> for protected access<br/>
+  <strong>Real-time Voice/Text</strong> multilingual legal guidance<br/>
+  <strong>Live Advocate Chat</strong> powered by Socket.IO<br/>
+  <strong>Smart Form Filler</strong> with OCR document scanning<br/>
+  <strong>Google Maps Integration</strong> for nearby legal services<br/>
+  <strong>Gemini AI Engine</strong> for intelligent legal analysis
+</p>
+
+</td>
+</tr>
+</table>
+
 </div>
+
+---
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="30"> GitHub Analytics
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anshuu-sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshuu-sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuu-sharma&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuu-sharma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=anshuu-sharma&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://streak-stats.demolab.com?user=anshuu-sharma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=anshuu-sharma&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=anshuu-sharma&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</picture>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> What I'm Up To
+
+<table>
+<tr><td>
+
+- **Working** as SDE-1 at GydeXp — building real-time AI voice agents & scalable hotel PMS
+- **Building** multi-agent orchestration systems & production-grade AI workflows
+- **Exploring** WebRTC, voice AI pipelines, and LLM optimization techniques
+- **Open to** collaborating on innovative full-stack & AI-powered applications
+- **Ask me about** React, Node.js, System Design, Voice AI, or competitive programming
+
+</td></tr>
+</table>
+
+---
+
+## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30"> Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ansh-sharma-36a936143"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:anshismyname47@gmail.com"><img src="https://img.shields.io/badge/Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/ansh7s"><img src="https://img.shields.io/badge/Solve_Together-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+
+<br/><br/>
+
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+**If you like my work, consider giving my repos a star!**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:58a6ff,100:1a1b27&height=120&section=footer" width="100%" />
